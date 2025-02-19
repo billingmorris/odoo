@@ -32,7 +32,7 @@ Si configuras el parámetro INSTALL_NGINX como True, también deberás configura
 Procedimiento de instalación
 1. Descarga el script:
 Copy
-wget https://raw.githubusercontent.com/hrmuwanika/odoo/18.0/install_odoo_ubuntu.sh
+wget https://raw.githubusercontent.com/billingmorris/odoo/18.0/install_odoo_ubuntu.sh
 2. Modifica los parámetros según tus necesidades.
 Hay varias cosas que puedes configurar, esta es la lista más utilizada:
 
